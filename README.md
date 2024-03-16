@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Przemek</h1>
-<h3 align="center">I'm interested in Web Development. For now I'm programming in C / C ++ and Java. Currently studying Applied Computer Science at AGH University of Science and Technology!!</h3>
+<h3 align="center">I'm interested in Web Development. For now I'm programming in Java and Python. Currently studying Applied Computer Science at AGH University of Science and Technology!!</h3>
 
 - 🌱 I’m currently learning **Java, Spring, Hibernate, Flutter**
 
