@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Przemek</h1>
-<h3 align="center">I'm interested in Web Development. For now I'm programming in Java and Python. Currently studying Applied Computer Science at AGH University of Science and Technology!!</h3>
+<h3 align="center">I'm interested in Web Development and SRE. For now I'm programming in Java, TypeScript and Python. Graduated with a Master's degree in Applied Computer Science at AGH University of Science and Technology!!</h3>
 
-- 🌱 I’m currently learning **Java, Spring, Hibernate, Flutter**
+- 🌱 I’m currently learning **Java, Angular, TypeScript, Spring Boot, Hibernate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,16 +14,16 @@
             width="40" height="40" /> </a>
     <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" />
+             <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+                    alt="typescript" width="40" height="40" /> </a> <a href="https://unrealengine.com/" target="_blank"
+                rel="noreferrer">
     </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
     </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python" width="40" height="40" /> </a>
-        <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"
-            width="40" height="40" /> </a>
             <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"
             height="40" /> </a>
+            <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
@@ -57,14 +57,14 @@
             </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img
                     src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana"
                     width="40" height="40" /> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
+                                    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
                     height="40" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                    alt="linux" width="40" height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank"
-                rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                    alt="typescript" width="40" height="40" /> </a> <a href="https://unrealengine.com/" target="_blank"
-                rel="noreferrer"> <img
+                    alt="linux" width="40" height="40" /> </a> 
+        <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"
+            width="40" height="40" /> </a>
+                 <img
                     src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"
                     alt="unreal" width="40" height="40" /> </a>
 </p>
