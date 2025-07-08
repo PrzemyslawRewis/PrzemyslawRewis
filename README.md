@@ -68,7 +68,3 @@
                     src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"
                     alt="unreal" width="40" height="40" /> </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=przemyslawrewis&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="przemyslawrewis" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=przemyslawrewis&show_icons=true&theme=highcontrast&locale=en" alt="przemyslawrewis" /></p>
